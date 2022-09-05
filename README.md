@@ -6,7 +6,7 @@
 
 - 💞️ I’m looking to collaborate with other newbie/intermediate programmers.
 
-- 📫 How to reach me: here on Github!
+- 📫 How to reach me: here on Github, @hacktinium on Twitter.
 
 <!---
 Hacktinium/Hacktinium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
