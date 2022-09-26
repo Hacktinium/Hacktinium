@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Hacktinium
 
-- 👀 I’m interested in learning to code! I want to switch careers and become a software dev. I currently work in mechanical engineering.
-
-- 🌱 I’m about to embark on a bootcamp with the School of Code!
+- 👀 I’m learning to become a full-stack web developer with the help of School of Code!
 
 - 💞️ I’m looking to collaborate with other newbie/intermediate programmers.
 
