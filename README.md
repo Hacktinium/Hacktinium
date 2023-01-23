@@ -43,13 +43,4 @@ src="https://img.shields.io/github/followers/hacktinium?logo=github&style=for-th
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/hacktinium"><img src="https://github-readme-stats.vercel.app/api?username=hacktinium&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=1c1917&hide_border=true&show_icons=true" alt="hacktinium's GitHub stats" /></a>
-
 <a href="http://www.github.com/hacktinium"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hacktinium&stroke=ffffff&background=1c1917&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hacktinium&repo=github-readme-stats)](https://github.com/Hacktinium/pokedex)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hacktinium&repo=github-readme-stats)](https://github.com/Hacktinium/bot-blogz-frontend)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hacktinium&repo=github-readme-stats)](https://github.com/Hacktinium/weather-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Hacktinium&repo=github-readme-stats)](https://github.com/Hacktinium/pokedex)
