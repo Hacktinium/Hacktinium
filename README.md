@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steve
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name's Steve
 =============================================================================================================================
 
 Full-Stack 🕸️ Developer
@@ -7,12 +7,12 @@ Full-Stack 🕸️ Developer
 🎓 School of Code graduate 🔧 Mech. Engineering career switcher
 
 * 🌍  I'm based in Suffolk
-* 🖥️  See my portfolio at [hacktinium.me](http://hacktinium.me)
-* ✉️  You can contact me at [iamhacktinium@gmail.com](mailto:iamhacktinium@gmail.com)
-* 🚀  I'm currently working on [Trove](http://github.com/SchoolOfCode/bc13_w9_project-frontend-trove)
-* 🧠  I'm learning Next.js ⏭️ & Tailwind CSS 🍃
+* 🖥️  See my portfolio at [hacktinium.me](http://hacktinium.me) ⚠️under construction⚠️
+* ✉️  You can contact me at [iamhacktinium@gmail.com](mailto:iamhacktinium@gmail.com)
 * 🤝  I'm open to collaborating on anything full-stack web-related
 * ⚡  "Teamwork makes the dream work" 💪🏻
+<!-- * 🚀  I'm currently working on [Trove](http://github.com/SchoolOfCode/bc13_w9_project-frontend-trove) -->
+<!-- * 🧠  I'm learning Next.js ⏭️ & Tailwind CSS 🍃 -->
 
 <a href="https://www.github.com/hacktinium" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/hacktinium?logo=github&style=for-the-badge&color=22c55e&labelColor=1c1917" /></a>
